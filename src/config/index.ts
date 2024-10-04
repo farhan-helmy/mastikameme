@@ -1,0 +1,1 @@
+export const cloudfrontUrl = "https://d1ntgpbz8fwreu.cloudfront.net/";
